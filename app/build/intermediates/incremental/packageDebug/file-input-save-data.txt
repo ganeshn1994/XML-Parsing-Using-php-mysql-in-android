@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Mar 08 00:33:37 IST 2017
+2.base=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+2.set=ANDROID_RESOURCE
+4.base=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_/res/layout/single_list_item.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+5.base=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+1.set=DEX
+7.base=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/item.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_/res/layout/list_item.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.file=/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/merged/debug/layout/single_list_item.xml",
+        "source": "/Users/personal/Downloads/AndroidXMLParsing1/app/src/main/res/layout/single_list_item.xml"
+    },
+    {
+        "merged": "/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/personal/Downloads/AndroidXMLParsing1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/personal/Downloads/AndroidXMLParsing1/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/personal/Downloads/AndroidXMLParsing1/app/src/main/res/layout/list_item.xml"
+    }
+]
